@@ -104,14 +104,9 @@ The Power BI dashboard provides interactive insights into:
 
 ## 📸 Dashboard Preview
 
-<img width="1122" height="635" alt="Dashboard Page 3" src="https://github.com/user-attachments/assets/2587a230-ca20-4e9f-b86e-9f90aa94fd8a" />
-<img width="1121" height="632" alt="Dashboard Page 2" src="https://github.com/user-attachments/assets/818447f2-3984-4ee5-bcfe-0fb14a920648" />
 <img width="1120" height="632" alt="Dashboard Page 1" src="https://github.com/user-attachments/assets/e118d4e6-157d-45c8-b82e-1f348957744c" />
-
-
-
-
-
+<img width="1121" height="632" alt="Dashboard Page 2" src="https://github.com/user-attachments/assets/818447f2-3984-4ee5-bcfe-0fb14a920648" />
+<img width="1122" height="635" alt="Dashboard Page 3" src="https://github.com/user-attachments/assets/2587a230-ca20-4e9f-b86e-9f90aa94fd8a" />
 
 
 ---
